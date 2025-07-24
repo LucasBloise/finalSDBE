@@ -1,6 +1,6 @@
 package com.lucasb.finalsd.controllers;
 
-import com.lucasb.finalsd.model.dto.RickAndMortyResponseDTO;
+import com.lucasb.finalsd.entities.dto.RickAndMortyResponseDTO;
 import com.lucasb.finalsd.services.RickAndMortyService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

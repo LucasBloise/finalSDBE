@@ -1,4 +1,4 @@
-package com.lucasb.finalsd.model.dto;
+package com.lucasb.finalsd.entities.dto;
 
 import lombok.Data;
 

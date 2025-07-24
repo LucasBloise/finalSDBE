@@ -1,6 +1,6 @@
 package com.lucasb.finalsd.services.impl;
 
-import com.lucasb.finalsd.model.dto.RickAndMortyResponseDTO;
+import com.lucasb.finalsd.entities.dto.RickAndMortyResponseDTO;
 import com.lucasb.finalsd.services.RickAndMortyService;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
